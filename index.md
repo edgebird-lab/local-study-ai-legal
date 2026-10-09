@@ -1,6 +1,6 @@
 # Local Study AI
 
-Rechtliche Hinweise zur Android-App „Local Study AI“ von edgebird-lab. Kontakt: kontakt@olbricht-digital.de
+Rechtliche Hinweise zu den Android-Apps von edgebird-lab. Kontakt: kontakt@olbricht-digital.de
 
-- [Datenschutzerklärung (Deutsch)](DATENSCHUTZ)
-- [Privacy policy (English)](PRIVACY)
+- Local Study AI: [Datenschutzerklärung (Deutsch)](DATENSCHUTZ) · [Privacy policy (English)](PRIVACY)
+- Local Study AI Stimmen: [Datenschutzerklärung (Deutsch)](VOICES-DATENSCHUTZ) · [Privacy policy (English)](VOICES-PRIVACY)
