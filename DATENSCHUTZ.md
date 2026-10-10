@@ -34,6 +34,7 @@ Antworten, Zusammenfassungen, Quizfragen und Abfragen erzeugt ein Sprachmodell a
 - Teilen: Du kannst PDFs, Texte und Bilder aus anderen Apps mit Local Study AI teilen; sie werden erst nach deiner Wahl eines Fachs importiert.
 - Sprachausgabe (Vorlesen): Die App verwendet die Sprachausgabe deines Geräts und wählt ausschließlich **Offline-Stimmen** (Stimmen, die eine Internetverbindung brauchen, werden nicht benutzt). Fehlt eine Offline-Stimme für die Sprache, verweist die App auf die Einstellungen deines Geräts, wo du sie herunterladen kannst. Das Vorlesen und das Erzeugen von Audiodateien laufen auf dem Gerät.
 - Genaue Alarme (optional): damit das Ende einer Fokusphase pünktlich gemeldet wird.
+- „Nicht stören“-Zugriff (optional): Im Lernmodus schaltet die App Meldungen anderer Apps stumm („nur Wecker“) und stellt den vorigen Zustand danach wieder her. Ohne diese Erlaubnis läuft der Lernmodus trotzdem.
 - Nach Neustart starten: stellt einen laufenden Fokus-Timer wieder her.
 - Vordergrunddienst (Datensynchronisierung): lässt Import, Indexierung, Zusammenfassungen und Download bei ausgeschaltetem Display weiterlaufen.
 

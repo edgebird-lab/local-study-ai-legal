@@ -34,6 +34,7 @@ Answers, summaries, quiz questions and Q&A are produced by a language model on y
 - Share: you can share PDFs, texts and images from other apps with Local Study AI; they are imported only after you choose a subject.
 - Reading aloud: the app uses your device's speech output and picks only **offline voices** (voices that need an internet connection are never used). If an offline voice for the language is missing, the app points you to your device's settings where you can download it. Reading aloud and creating audio files run on the device.
 - Exact alarms (optional): so that the end of a focus phase is announced on time.
+- “Do not disturb” access (optional): In study mode the app silences notifications from other apps (“alarms only”) and restores the previous setting afterwards. Without this permission study mode still works.
 - Start after reboot: restores a running focus timer.
 - Foreground service (data synchronisation): keeps import, indexing, summaries and downloads running while the display is off.
 
